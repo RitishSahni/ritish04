@@ -1,0 +1,31 @@
+{
+ "Students": [
+  {
+   "Rollno": "3301",
+   "Name": "Ayush Mahajan",
+   "Gender": "Male",
+   "address": "Pune",
+   "Phone no": "9445233456",
+   "Batch": " Batch 2020",
+   "Hostel": true
+  },
+  {
+   "Rollno": "3302",
+   "Name": "Dhruv Soni",
+   "Gender": "Male",
+   "address": "Chandigarh",
+   "Phone no": "7889742569",
+   "Batch": " Batch 2020",
+   "Hostel": false
+  },
+  {
+   "Rollno": "3303",
+   "Name": "Harshit Sharma",
+   "Gender": "Male",
+   "address": "Punjab",
+   "Phone no": "9988344756",
+   "Batch": " Batch 2020",
+   "Hostel": true
+  }
+ ]
+}
